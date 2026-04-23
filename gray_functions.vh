@@ -4,6 +4,7 @@
 // Konstantin Pavlov, pavlovconst@gmail.com
 //------------------------------------------------------------------------------
 
+
 // INFO ------------------------------------------------------------------------
 //  Gray code parametrizable converter functions
 //
